@@ -8,7 +8,7 @@
 
 **Link to work:** [Started](https://github.com/hellonearthis/100-days-of-code/edit/BrettCooper/log.md)
 
-### Day 0: December 30, 2016
+### Day 1: December 30, 2016
 
 **Today's Progress**: Worked on learning React
 
