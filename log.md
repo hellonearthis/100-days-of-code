@@ -12,7 +12,7 @@
 
 **Today's Progress**: Worked on learning React
 
-**Thoughts:** I tried to get to grips with 'React AHA Moments' blog post.  Also looked at [https://www.npmjs.com/package/react-webpack-template] (https://www.npmjs.com/package/react-webpack-template) as an easy way to create react projects that use webkit, instead of rolling my own.
+**Thoughts:** I tried to get to grips with 'React AHA Moments' blog post.  Also looked at [react-webpack-template] (https://www.npmjs.com/package/react-webpack-template) as an easy way to create react projects that use webkit, instead of rolling my own.
 
 **Link to work:** [React AHA Moments](https://tylermcginnis.com/react-aha-moments/)
 
@@ -20,7 +20,7 @@
 
 **Today's Progress**: Worked on learning Node,js
 
-**Thoughts:** I went throught the Node university free tutorial. [https://node.university/courses/enrolled/you-dont-know-node] 
+**Thoughts:** I went throught the Node university free tutorial. https://node.university/courses/enrolled/you-dont-know-node 
 
 ### Day 3: January 1, 2017
 
@@ -51,11 +51,11 @@
 **Today's Progress**: Still working on GreaseMonkey script for Pandora because I am still listening,  had issues with the basic design so when for a simple option of displaying song names using document.getElementsByClassName("songTitle")[0].innerHTML 
 That had a problem that the song name isn't loaded at the time the page os loaded,  so I had to delay that read for 6 seconds
 
-**Thoughts:** Thinking of the main goal, I might use this to send a click event [http://stackoverflow.com/questions/12252701/how-do-i-click-on-this-button-with-greasemonkey]
+**Thoughts:** Thinking of the main goal, I might use this to send a click event [how-do-i-click-on-this-button-with-greasemonkey](http://stackoverflow.com/questions/12252701/how-do-i-click-on-this-button-with-greasemonkey)
 
 ### Day 5: January 6, 2017
 
-  **Today's Progress**: Still working on GreaseMonkey script for Pandora because I am still listening,  I am using the [https://gist.github.com/BrockA/2625891] waitForKeyElements.js to check when the pandora ajax page has updated/changed.
+  **Today's Progress**: Still working on GreaseMonkey script for Pandora because I am still listening,  I am using the [waitForKeyElements.js](https://gist.github.com/BrockA/2625891)  to check when the pandora ajax page has updated/changed.
 After an hour, I am still not getting it to notice the page changes,  so might try that tomorrow.
 
 **Thoughts:** Might have to use waitForKeyElements.js on some other ajax style page to see if it's me on pandora.
