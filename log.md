@@ -45,3 +45,23 @@
 **Today's Progress**: Working on GreaseMonkey script for Pandora because I am still listening.
 
 **Thoughts:** It had a URL that changes when it thinks youre not listening and a clickbox with an OnClick event.
+
+### Day 4: January 5, 2017
+
+**Today's Progress**: Still working on GreaseMonkey script for Pandora because I am still listening,  had issues with the basic design so when for a simple option of displaying song names using document.getElementsByClassName("songTitle")[0].innerHTML 
+That had a problem that the song name isn't loaded at the time the page os loaded,  so I had to delay that read for 6 seconds
+
+**Thoughts:** Thinking of the main goal, I might use this to send a click event [http://stackoverflow.com/questions/12252701/how-do-i-click-on-this-button-with-greasemonkey]
+
+### Day 5: January 6, 2017
+
+  **Today's Progress**: Still working on GreaseMonkey script for Pandora because I am still listening,  I am using the [https://gist.github.com/BrockA/2625891] waitForKeyElements.js to check when the pandora ajax page has updated/changed.
+After an hour, I am still not getting it to notice the page changes,  so might try that tomorrow.
+
+**Thoughts:** Might have to use waitForKeyElements.js on some other ajax style page to see if it's me on pandora.
+
+### Day 6: January 6, 2017
+
+  **Today's Progress**: I got a new Book today so spent some time going through the first few chapters.  [Learning React
+Functional Web Development with React and Flux](http://shop.oreilly.com/product/0636920049579.do)  It was on sale so...
+
