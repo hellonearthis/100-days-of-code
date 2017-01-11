@@ -80,4 +80,5 @@ Functional Web Development with React and Flux](http://shop.oreilly.com/product/
 ### Day 9: January 11, 2017
 
 **Today's Progress**: Got some great help from StackOverflow and now understand the waitForKeyElements much better, and I posted the working code to github.
+
 **Link to work:** [Pandora_listening_to](https://github.com/hellonearthis/Pandora_listening_to)  
