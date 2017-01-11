@@ -60,8 +60,27 @@ After an hour, I am still not getting it to notice the page changes,  so might t
 
 **Thoughts:** Might have to use waitForKeyElements.js on some other ajax style page to see if it's me on pandora.
 
-### Day 6: January 6, 2017
+### Day 6: January 7, 2017
 
   **Today's Progress**: I got a new Book today so spent some time going through the first few chapters.  [Learning React
 Functional Web Development with React and Flux](http://shop.oreilly.com/product/0636920049579.do)  It was on sale so...
+
+### Day 7: January 8, 2017
+
+  **Today's Progress**: A frustrated hour trying to get 'the pandora listing to' going
+
+### Day 8: January 9, 2017
+
+  **Today's Progress**: My Birthday, but managed to post my problem to stackOverflow [Pandora ajax not working with waitForKeyElements](http://stackoverflow.com/questions/41541110/pandora-ajax-not-working-with-waitforkeyelements)
+ 
+ ### Day 9: January 10, 2017
+
+  **Today's Progress**: Blobbed out and did nothing and it was great.
+
+ ### Day 9: January 11, 2017
+
+  **Today's Progress**: Got some great help from StackOverflow and now understand the waitForKeyElements much better, and I posted the working code to github.
+  **Link to work:** [Pandora_listening_to](https://github.com/hellonearthis/Pandora_listening_to)  
+
+  
 
