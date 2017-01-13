@@ -82,3 +82,12 @@ Functional Web Development with React and Flux](http://shop.oreilly.com/product/
 **Today's Progress**: Got some great help from StackOverflow and now understand the waitForKeyElements much better, and I posted the working code to github.
 
 **Link to work:** [Pandora_listening_to](https://github.com/hellonearthis/Pandora_listening_to)  
+
+
+### Day 10: January 12, 2017
+
+**Today's Progress**: Worked on a bluetooth beacon using a CC2540 BLE module.
+
+### Day 11: January 13, 2017
+
+**Today's Progress**: Worked on a bluetooth beacon using a CC2540 BLE module, which is actually a CC41-A module and explains why I was having issues with the AT commands.  So I can now Name the beacon and adjust the power settings.  Next step is to connects a C Cell battery and test how long it can work as well as thinking up a way to turn it into a key ring device.  Which I might count as tomorrows hour of code :D
