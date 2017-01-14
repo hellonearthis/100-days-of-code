@@ -91,3 +91,9 @@ Functional Web Development with React and Flux](http://shop.oreilly.com/product/
 ### Day 11: January 13, 2017
 
 **Today's Progress**: Worked on a bluetooth beacon using a CC2540 BLE module, which is actually a CC41-A module and explains why I was having issues with the AT commands.  So I can now Name the beacon and adjust the power settings.  Next step is to connects a C Cell battery and test how long it can work as well as thinking up a way to turn it into a key ring device.  Which I might count as tomorrows hour of code :D
+
+### Day 12: January 14, 2017
+
+**Today's Progress**:  I got the bluetooth module wired and the coin cell battery didn't last long. I guess the overheads of blinking LED didn't help the low power mode.  I also spent a bit of time writing some autohotkey scripts to make a boaring game less boaring.
+
+
