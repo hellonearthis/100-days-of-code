@@ -96,4 +96,14 @@ Functional Web Development with React and Flux](http://shop.oreilly.com/product/
 
 **Today's Progress**:  I got the bluetooth module wired and the coin cell battery didn't last long. I guess the overheads of blinking LED didn't help the low power mode.  I also spent a bit of time writing some autohotkey scripts to make a boaring game less boaring.
 
+### Day 13: January 15, 2017
+
+**Today's Progress**:  Did more research into reducing the power of the bluetooth module. And spent more time writing some autohotkey scripts to make a boaring game less boaring.
+
+### Day 14: January 16, 2017
+
+**Today's Progress**:  More time spent on writing some autohotkey scripts to make a boaring game less boaring.
+
+
+
 
